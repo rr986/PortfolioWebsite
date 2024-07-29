@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "public": false,
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "about.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "skills.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "projects.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "relevant_experience.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "contact.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "assets/css/**/*",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "assets/js/**/*",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "assets/images/**/*",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "assets/webfonts/**/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/about",
+      "dest": "/about.html"
+    },
+    {
+      "src": "/skills",
+      "dest": "/skills.html"
+    },
+    {
+      "src": "/projects",
+      "dest": "/projects.html"
+    },
+    {
+      "src": "/relevant_experience",
+      "dest": "/relevant_experience.html"
+    },
+    {
+      "src": "/contact",
+      "dest": "/contact.html"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/assets/webfonts/(.*)",
+      "headers": {
+        "content-type": "font/woff2"
+      },
+      "dest": "/assets/webfonts/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
