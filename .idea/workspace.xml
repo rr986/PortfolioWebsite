@@ -5,85 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f066a84-cabc-4c52-941d-1a14e6724fa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relevant_experience.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/css/fontawesome-all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/css/images/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/css/noscript.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/js/breakpoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/js/browser.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/js/jquery.scrollex.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/js/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/base/_page.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/base/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/base/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_actions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_contact.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_features.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_form.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/components/_table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/layout/_banner.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/layout/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/layout/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/layout/_menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/layout/_wrapper.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/libs/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/libs/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/libs/_html-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/libs/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/libs/_vars.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/libs/_vendor.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/sass/noscript.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/elements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/generic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/pic01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/pic02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/pic03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/pic04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/pic05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/pic06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/pic07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/images/pic08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html5up-solid-state/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,13 +35,63 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/Ragini/Movies/PortfolioWebsite"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PortfolioWebsite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PortfolioWebsite" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PortfolioWebsite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="PortfolioWebsite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
